@@ -21,6 +21,10 @@ However, because this is a prototype built with synthetic, highly structured dat
 
 [Click here to open the app](https://learningstylerecommender.streamlit.app/) 
 
+## Watch Presentation
+
+[Watch Video Presentation](https://youtu.be/weP-P_v_KkA) 
+
 ## To Run Locally
 
 1. Clone the repo:
