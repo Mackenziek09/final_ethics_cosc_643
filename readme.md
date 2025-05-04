@@ -12,7 +12,7 @@ This is a Streamlit-based machine learning app that recommends a user's preferre
 ## Notes
 
 This app uses a simple decision tree model trained on synthetic data.  
-Typically, we would optimize this model using techniques like hyperparameter tuning (e.g., depth selection) and cross-validation or test/train splitting.
+Typically, we would optimize this model using techniques like hyperparameter tuning (e.g., depth selection).
 
 However, because this is a prototype built with synthetic, highly structured data and is designed for demonstration purposes only at this point, I’ve opted for a simpler model to prioritize clarity, speed, and usability. 
 
