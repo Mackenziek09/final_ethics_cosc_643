@@ -19,7 +19,7 @@ However, because this is a prototype built with synthetic, highly structured dat
 
 ## Try It Out
 
-[[Click here to open the app](https://learningstylerecommender.streamlit.app/) 
+[Click here to open the app](https://learningstylerecommender.streamlit.app/) 
 
 ## To Run Locally
 
